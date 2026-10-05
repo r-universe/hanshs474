@@ -5,3 +5,9 @@
 [submodule "kavel"]
 	path = kavel
 	url = https://github.com/hanshs474/kavel-r
+[submodule "saymaker"]
+	path = saymaker
+	url = https://github.com/hanshs474/saymaker-r
+[submodule "veida"]
+	path = veida
+	url = https://github.com/hanshs474/veida-r
