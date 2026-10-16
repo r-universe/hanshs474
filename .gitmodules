@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/hanshs474/hanshs474.r-universe.dev
 	branch = HEAD
+[submodule "emaki"]
+	path = emaki
+	url = https://github.com/hanshs474/emaki-r
 [submodule "kavel"]
 	path = kavel
 	url = https://github.com/hanshs474/kavel-r
