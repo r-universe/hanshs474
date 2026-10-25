@@ -8,6 +8,9 @@
 [submodule "kavel"]
 	path = kavel
 	url = https://github.com/hanshs474/kavel-r
+[submodule "movoa"]
+	path = movoa
+	url = https://github.com/hanshs474/movoa-r
 [submodule "saymaker"]
 	path = saymaker
 	url = https://github.com/hanshs474/saymaker-r
