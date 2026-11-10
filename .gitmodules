@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/hanshs474/hanshs474.r-universe.dev
 	branch = HEAD
+[submodule "aigifmaker"]
+	path = aigifmaker
+	url = https://github.com/hanshs474/aigifmaker-r
 [submodule "emaki"]
 	path = emaki
 	url = https://github.com/hanshs474/emaki-r
