@@ -8,6 +8,9 @@
 [submodule "emaki"]
 	path = emaki
 	url = https://github.com/hanshs474/emaki-r
+[submodule "freeimagetovideo"]
+	path = freeimagetovideo
+	url = https://github.com/hanshs474/fitv-r
 [submodule "kavel"]
 	path = kavel
 	url = https://github.com/hanshs474/kavel-r
